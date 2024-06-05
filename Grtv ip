@@ -21,6 +21,12 @@ http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="https://i.imgur.com/lc0mZ4i.jpg",ANT1 EUROPE
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/WeJpLhK.png",EuroNews
+https://ythls.armelin.one/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
+#EXTINF:573974 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="naftemporiki" tvg-logo="https://i.imgur.com/g7s60c1.png",Naftemporiki
+https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="pronews" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",ProNews 
+https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
@@ -35,12 +41,6 @@ https://s1.cystream.net/live/34100/playlist.m3u8
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/WeJpLhK.png",EuroNews
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:573974 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="naftemporiki" tvg-logo="https://i.imgur.com/g7s60c1.png",Naftemporiki
-https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
-#EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="pronews" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",ProNews 
-https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:289530 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/uAIsqsP.png",SIGMA
