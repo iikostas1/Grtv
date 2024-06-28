@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews"tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
 http://ertflix.s.llnwi.net/ertlive/ERTNews/default/playlist.m3u8
 #EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/1200px-ERT1_logo_2020.svg.png",ERT1 HD
-https://ertflix.s.llnwi.net/ertlive/ert1/default/index.m3u8
+http://88.99.254.101/ert1HD/index.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/1200px-ERT2_logo_2020.svg.png",ERT2 HD
 https://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1200px-ERT3_logo_2020.svg.png",ERT3 HD
