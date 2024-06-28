@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews"tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
-http://ertflix.s.llnwi.net/ertlive/ERTNews/default/playlist.m3u8
+http://213.7.193.54:4000/play/a00c/index.m3u8
 #EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/1200px-ERT1_logo_2020.svg.png",ERT1 HD
 http://88.99.254.101/ert1HD/index.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/1200px-ERT2_logo_2020.svg.png",ERT2 HD
-https://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
+http://88.99.254.101/ert2HD/index.m3u8
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1200px-ERT3_logo_2020.svg.png",ERT3 HD
-https://ertflix.s.llnwi.net/ertlive/ert3/default//index.m3u8
+http://88.99.254.101/ert3HD/index.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="eptsports" tvg-logo="https://upload.wikimedia.org/wikipedia/el/2/25/Ertsports1.png",ERT SPORTS 1
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
