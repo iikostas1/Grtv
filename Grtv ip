@@ -21,8 +21,8 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png",SKAI  
 http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="maktv" tvg-logo="https://i.imgur.com/WeJpLhK.png",Makedonia TV
-https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="maktv" tvg-logo="https://i.imgur.com/RVs0GZa.png",Makedonia TV
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png",TV100
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:573974 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="naftemporiki" tvg-logo="https://i.imgur.com/g7s60c1.png",Naftemporiki
